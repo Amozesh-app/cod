@@ -4,7 +4,7 @@
     "کد": "this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);",
     "توضیحات": "ن",
     "توضیحات بیشتر": "جلوگیری از گرفتن اسکرین شات 🚫⛔\n\nکافیه کد زیر را بعد از متد onCreate اکتیویتی مورد نظر بنویس.",
-    "عکس": "https://vidyard.ir/drive/s/wI5mdUHiJK1A9IUU8N5xIdGv5raiAW"
+    "عکس": "https://s18.picofile.com/file/8441112942/Negar_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B9%DB%B0%DB%B3_%DB%B0%DB%B0%DB%B1%DB%B6%DB%B4%DB%B9.png"
   },
    {
     "عنوان": "کد حذف اکشن بار",
